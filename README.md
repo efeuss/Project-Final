@@ -1,7 +1,14 @@
 # Project-Final
-
 ## Project Firefly
-Attempting to find any weather correlations with the predicted or actual peak firefly mating dates. Using exploratory data analysis to determine what weather patterns to focus on.
+Each year, from mid-May to mid-June, the firefly species Photinus carolinus uses a display of synchronous flashing during their mating season. Male fireflies in the air flash together for a few seconds then pause, awaiting the synchronized, less bright, response from females on the ground. The peak season of viewing is when the largest amount of fireflies are flashing together in their mating show. This generally spans two weeks. 
+
+Synchronous fireflies are more prevalent in south Asia, but there are a few populations found in North America. The most popular is in the Great Smoky Mountain National Park, in Elkmont, Tennessee. As a result of the wild popularity of this attraction, the National Park Service limits visitors during the mating season. To do this, in April, they determine the peak week and hold a lottery for visitors. This puts a lot of pressure on NPS entomologists to get the peak week right, as it's a massive administrative undertaking to organize all the visitors and the transportation and lodging needed to accommodate this influx. Any additional resources to help plan this peak week would be valuable to the NPS for planning their events.
+
+
+## Goal of Study
+Attempting to find any weather correlations with the predicted or actual peak firefly mating dates. Currently, entomologists use Degree Day data to estimate peak firefly mating display. The original hope was to find weather data from earlier in the year or even the year before that would help assist in these estimation, instead of having entomologists and the National Park Service rely entirely on last minute assessments that leave them only 1 month to plan for the biggest even of the year. 
+
+Unfortunately, the data evaluation aligned with the current methods for estimations, and when comparing the weather data to the firefly life cycle, we can assume the best calculations will occur only 4 weeks before the adult firefly emerges and mating season begins, during the pupa stage. However, weather patterns could open up some interesting research questions on length of firefly season and the effects of climate change and abnormal temperature fluctions on mating season length.  
 
 Using climate data from NOAA obtained from the climate data online search (https://www.ncdc.noaa.gov/cdo-web/search) centered around the weather center in Morristown, TN. Includues other related cities, all about 1.5 miles north, northeast, or northwest from the Elkmont area of the Great Smoky Mountain National Park where the synchronous fireflies put on their annual mating lightshow.
 
