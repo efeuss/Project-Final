@@ -26,7 +26,7 @@ The imported data is START and END dates. This is based off the dates the NPS pr
 ## Research Files
 Contained in this repo are the following files used for data analysis:
 1. Firefly Peak Mating Dates
-2. NOAA Climate Data from Elkmont,TN region
+2. NOAA Climate Data from Elkmont,TN region (Daily Summaries.csv)
 3. Jupyter Notebook for data cleaning and exploratory data analysis
 4. Jupyter Notebook for main portion of data exploration
 5. 
