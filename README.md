@@ -24,13 +24,13 @@ The imported data is START and END dates. This is based off the dates the NPS pr
 (Because peak nights can span 2 - 5 days depending on weather conditions, only the final night of maximum male display was recorded for this study (this date was referred to as “peak display”) [1] but I wanted to try to align this a bit with the extended windows of NPS dates offered to guests).
 
 ## Research Files
-Contained in this repo are the following files used for data analysis:
-1. Firefly Peak Mating Dates
-2. NOAA Climate Data from Elkmont,TN region (Daily Summaries.csv)
-3. Jupyter Notebook for data cleaning and exploratory data analysis
-4. Jupyter Notebook for main portion of data exploration
-5. Project Firefly Summary
-6. 
+Contained in this repo are the following files used for data analysis -
+- **DATA:** Firefly Peak Mating Dates
+- **DATA:** NOAA Climate Data from Elkmont,TN region (Daily Summaries.csv)
+- **ANALYSIS:** Jupyter Notebook for data cleaning and exploratory data analysis
+- **ANALYSIS:** Jupyter Notebook for main portion of data exploration
+- Project Firefly Summary
+- Project Firefly Presentation Slides
 
 ## Research Questions
 1. How much snowfall was there November 1998 - April 1999 that might have caused the short 1999 season?
